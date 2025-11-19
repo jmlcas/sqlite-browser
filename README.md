@@ -1,6 +1,3 @@
-# sqlite-browser
-SQLite-Browser - Visualizador base de datos - Docker compose
+# SQLite-Browser
 
-Ver en "localhost:8200"
-
-
+Ver en "http:/localhost:8200"
